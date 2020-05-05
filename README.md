@@ -1,5 +1,5 @@
 
-# Weather Forecasts for ML post-processing 
+# Weather Forecasts for Machine Learning Post-processing 
 
 ### A Repository for the Rapid Development of Machine Learning Post-Processing Methods. 
 

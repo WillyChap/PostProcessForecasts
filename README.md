@@ -6,6 +6,8 @@
 ### Associated Publications: 
 --- 
 
+ -- If you are using this data, please cite: --
+
 1) Towards Implementing AI Post-processing in Weather and Climate: Proposed Actions from the Oxford 2019 Workshop.
 
 

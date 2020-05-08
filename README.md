@@ -19,7 +19,7 @@
 <pre><code> wget : .... location of Data on UCSD servers.
 </code></pre>
 
-See the notebooks folder jupyter notebooks for ingest of the data. 
+See the \emph{notebooks} folder jupyter notebooks for easy ingest of a specific data set. 
 
 ##### File Organization: 
 The file download will be a folder called "All_Zarr", which contains 21 seperate Zarr file structures. 

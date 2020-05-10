@@ -4,11 +4,6 @@
 ### A Repository for the Rapid Development of Machine Learning Post-Processing Methods. 
 
 ### Associated Publications: 
-<<<<<<< HEAD
-
-=======
->>>>>>> 5d978694c69dc77f30b19e7a2e60967d578eec44
---- 
 
  -- If you are using this data, please cite: --
 
@@ -23,7 +18,7 @@
 <pre><code> wget : .... location of Data on UCSD servers.
 </code></pre>
 
-See the *notebooks* folder jupyter notebooks for easy ingest of a specific data set. 
+See the *notebooks* folder jupyter notebooks for easy ingest of a specific data set, and gain access to metrics of comparison. We recommend starting with */notebooks/Post_IVT_GFS.ipynb* for deterministic or spatially gridded forecast, and */notebooks/PostProcess_ECMWFt2m.ipynb* for ensemble methods.
 
 ##### File Organization: 
 The file download will be a folder called "All_Zarr", which contains 21 seperate Zarr file structures. 

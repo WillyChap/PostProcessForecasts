@@ -4,11 +4,6 @@
 ### A Repository for the Rapid Development of Machine Learning Post-Processing Methods. 
 
 ### Associated Publications: 
-<<<<<<< HEAD
-
-=======
->>>>>>> 5d978694c69dc77f30b19e7a2e60967d578eec44
---- 
 
  -- If you are using this data, please cite: --
 

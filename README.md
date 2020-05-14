@@ -15,7 +15,7 @@
 
 ## Downloading the Data: 
 
-<pre><code> wget : .... location of Data on UCSD servers.
+<pre><code> wget https://library.ucsd.edu/dc/object/bb88449405/_2_1.zip/download
 </code></pre>
 
 See the *notebooks* folder jupyter notebooks for easy ingest of a specific data set, and gain access to metrics of comparison. We recommend starting with */notebooks/Post_IVT_GFS.ipynb* for deterministic or spatially gridded forecast, and */notebooks/PostProcess_ECMWFt2m.ipynb* for ensemble methods.

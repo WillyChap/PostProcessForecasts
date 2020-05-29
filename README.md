@@ -27,7 +27,11 @@ See the *notebooks* folder jupyter notebooks for easy ingest of a specific data 
 
 #### Conda Environment: 
 
-We reccomend using the package_spec_file.txt and anaconda to set up your anaconda environment: 
+We recommend using the package_spec_file.txt and anaconda to set up your anaconda environment: 
+
+Download and install anaconda here: 
+
+https://docs.anaconda.com/anaconda/install/
 
 <pre><code> 
 conda create --name <env> --file package_spec_file.txt

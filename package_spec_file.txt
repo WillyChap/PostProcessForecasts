@@ -18,7 +18,7 @@ https://conda.anaconda.org/conda-forge/osx-64/yaml-0.2.2-h0b31af3_1.tar.bz2
 https://repo.continuum.io/pkgs/main/osx-64/zlib-1.2.11-h1de35cc_3.tar.bz2
 https://repo.continuum.io/pkgs/main/osx-64/libcxx-4.0.1-hcfea43d_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/libpng-1.6.37-h2573ce8_0.tar.bz2
-https://conda.anaconda.org/anaconda/osx-64/mkl-2019.5-281.tar.bz2
+https://conda.anaconda.org/anaconda/osx-64/mkl-2020.1-216.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/openssl-1.1.1g-h0b31af3_0.tar.bz2
 https://repo.continuum.io/pkgs/main/osx-64/tk-8.6.8-ha441bb4_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/freetype-2.10.0-h24853df_1.tar.bz2

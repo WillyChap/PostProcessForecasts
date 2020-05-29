@@ -18,6 +18,11 @@
 <pre><code> wget https://library.ucsd.edu/dc/object/bb88449405/_2_1.zip/download
 </code></pre>
 
+then export the path to this data directory: 
+<pre><code> 
+export POST_PROCESS_FORECASTS_DATA=/Path/To/Unzipped/File/All_Zarr
+</code></pre>
+
 See the *notebooks* folder jupyter notebooks for easy ingest of a specific data set, and gain access to metrics of comparison. We recommend starting with */notebooks/Post_IVT_GFS.ipynb* for deterministic or spatially gridded forecast, and */notebooks/PostProcess_ECMWFt2m.ipynb* for ensemble methods.
 
 ##### File Organization: 

@@ -33,6 +33,8 @@ Download and install anaconda here:
 
 https://docs.anaconda.com/anaconda/install/
 
+Then run:
+
 <pre><code> 
 conda create --name <env> --file package_spec_file.txt
 </code></pre>

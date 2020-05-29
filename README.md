@@ -25,7 +25,7 @@ export POST_PROCESS_FORECASTS_DATA=/Path/To/Unzipped/File/All_Zarr
 
 See the *notebooks* folder jupyter notebooks for easy ingest of a specific data set, and gain access to metrics of comparison. We recommend starting with */notebooks/Post_IVT_GFS.ipynb* for deterministic or spatially gridded forecast, and */notebooks/PostProcess_ECMWFt2m.ipynb* for ensemble methods.
 
-#### Conda Environment: 
+### Conda Environment: 
 
 We recommend using the package_spec_file.txt and anaconda to set up your anaconda environment: 
 
@@ -43,7 +43,7 @@ Additionally, if you run into the weird situation where your notebook server won
 
 https://stackoverflow.com/questions/58068818/how-to-use-jupyter-notebooks-in-a-conda-environment
 
-##### File Organization: 
+### File Organization: 
 The file download will be a folder called "All_Zarr", which contains 21 seperate Zarr file structures. 
 
 ## Data Descriptions: 

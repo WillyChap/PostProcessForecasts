@@ -25,6 +25,18 @@ export POST_PROCESS_FORECASTS_DATA=/Path/To/Unzipped/File/All_Zarr
 
 See the *notebooks* folder jupyter notebooks for easy ingest of a specific data set, and gain access to metrics of comparison. We recommend starting with */notebooks/Post_IVT_GFS.ipynb* for deterministic or spatially gridded forecast, and */notebooks/PostProcess_ECMWFt2m.ipynb* for ensemble methods.
 
+#### Conda Environment: 
+
+We reccomend using the package_spec_file.txt and anaconda to set up your anaconda environment: 
+
+<pre><code> 
+conda create --name <env> --file package_spec_file.txt
+</code></pre>
+
+Additionally, if you run into the weird situation where your notebook server won't run in the project's venv and will not load the venv's version of python containing xarray and all of the other ML packages.  This is a known bug. You can remedy this by editing /anaconda3/share/jupyter/kernels/python3/kernel.json to point to the venv path.  This is described in this StackOverflow thread in case you run into it.  See Wrong kernel configuration: Kernel is configured to use system Python.
+
+https://stackoverflow.com/questions/58068818/how-to-use-jupyter-notebooks-in-a-conda-environment
+
 ##### File Organization: 
 The file download will be a folder called "All_Zarr", which contains 21 seperate Zarr file structures. 
 
